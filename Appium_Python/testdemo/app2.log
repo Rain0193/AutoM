@@ -1,0 +1,12 @@
+CRITICAL:root:Host www.python.org unknown
+ERROR:root:couldn't find 'spam'
+WARNING:root:Feature is deprecated
+INFO:root:Opening file 'data.csv', mode='r'
+CRITICAL:root:Host www.python.org unknown
+ERROR:root:couldn't find 'spam'
+WARNING:root:Feature is deprecated
+INFO:root:Opening file 'data.csv', mode='r'
+CRITICAL:root:Host www.python.org unknown
+ERROR:root:couldn't find 'spam'
+WARNING:root:Feature is deprecated
+INFO:root:Opening file 'data.csv', mode='r'

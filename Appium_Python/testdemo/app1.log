@@ -1,0 +1,4 @@
+Tue, 26 Dec 2017 17:00:25:logger_demo.py:[line:38]:CRITICAL:Host www.python.org unknown
+Tue, 26 Dec 2017 17:00:25:logger_demo.py:[line:39]:ERROR:couldn't find 'spam'
+Tue, 26 Dec 2017 17:00:25:logger_demo.py:[line:40]:WARNING:Feature is deprecated
+Tue, 26 Dec 2017 17:00:25:logger_demo.py:[line:41]:INFO:Opening file 'data.csv', mode='r'
